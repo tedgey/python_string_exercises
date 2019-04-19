@@ -79,3 +79,9 @@
 
     # Caesar Cipher
 
+# original = input("enter the word you want translating ")
+# alphabet = "abcdefghijklmnopqrstuvwxyz"
+# caeser_alphabet = "nopqrstuvwxyzabcdefghijklm"
+# translation = str.maketrans(alphabet, caeser_alphabet)
+# print(original.translate(translation))
+
